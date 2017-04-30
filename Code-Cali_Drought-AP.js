@@ -1,6 +1,7 @@
 //// UC San Diego School of Global Policy and Strategy
 //// Advanced GIS and Remote Sensing
 //// Winter 2017, Final Project
+//// Economic Impact of California Drought, 2013-2016
 //// Anton Prokopyev
 
 //// Created in Google Earth Engine Coder
